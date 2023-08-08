@@ -666,7 +666,7 @@ de consórcio, X2, que inclui as organizações R2 e R3. Isso será usado para
 definir um novo canal para o X2.*
 
 Observe que a rede agora tem dois consórcios definidos: X1 para organizações R1 
-e R2 e X2 para organizações R2 e R3. O Consortium X2 foi introduzido para poder 
+e R2 e X2 para organizações R2 e R3. O Consórcio X2 foi introduzido para poder 
 criar um novo canal para R2 e R3.
 
 Um novo canal só pode ser criado pelas organizações especificamente identificadas 
